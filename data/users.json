@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "12345",
+        "role": "admin",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 2,
+        "username": "admin2",
+        "email": "admin2@mail.com",
+        "password": "12345",
+        "role": "admin",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 3,
+        "username": "admin3",
+        "email": "admin3@mail.com",
+        "password": "12345",
+        "role": "admin",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 4,
+        "username": "admin4",
+        "email": "admin4@mail.com",
+        "password": "12345",
+        "role": "admin",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 5,
+        "username": "user",
+        "email": "user@mail.com",
+        "password": "12345",
+        "role": "user",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 6,
+        "username": "user2",
+        "email": "user2@mail.com",
+        "password": "12345",
+        "role": "user",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 7,
+        "username": "user3",
+        "email": "user3@mail.com",
+        "password": "12345",
+        "role": "user",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    },
+    {
+        "id": 8,
+        "username": "user4",
+        "email": "user4@mail.com",
+        "password": "12345",
+        "role": "user",
+        "phoneNumber": "0813111",
+        "address": "jl. kebangkitan",
+        "balance": 0
+    }
+]

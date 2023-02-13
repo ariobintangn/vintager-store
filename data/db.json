@@ -1,0 +1,143 @@
+[
+        {
+            "id": 1,
+            "name": "Fender Stratocaster",
+            "description": "For those after the original slap, twang, and roar of an electric guitar icon, the Fender Player Stratocaster delivers classic tone with a fleet of modern features at an attractive price. An added Bridge tone knob and two-point tremolo grants even more control over the triple stack of redesigned Player Series Strat pups, while the sleek Modern C profile neck makes for easy work up and down the pau ferro fretboard. Top it off with new finishes like Sage Green Metallic and Buttercream, and you've got a serious tone machine that looks (and sounds) like a Custom Shop creation.",
+            "stock": 100,
+            "price": 15000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--Gv0h2G7S--/f_auto,t_supersize/v1529422133/jk27uzmspi3cjd71ytau.png",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 2,
+            "name": "PRS Silversky",
+            "description": "The SE Silver Sky keeps the signature details of the US-made original: the small bird inlays on the fretboard, the beveled lower horn, and the 635JM-style pickups. And with a slightly flatter fretboard, it's a bit easier to play, especially when soloing. It's just about the same guitar at less than half the price—like a premium Stratocaster, but built for everyone.",
+            "stock": 100,
+            "price": 30000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--xV-ZQpz2--/f_auto,t_supersize/v1641596081/z0e0slsntn41pt7dwutk.jpg",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 3,
+            "name": "Fender Telecaster",
+            "description": "The Fender Player Series replaced the brand's long-time Mexican Standard Series, evolving and building upon what was great about the instruments foundationally. The Player Tele features a pair of crisp Player Series single-coil pickups with Alnico 5 magnetic pole pieces, giving players punchy authentic Fender tone with a modern edge. The bridge also features bent-steel saddles to enhance the Tele's traditional twang.",
+            "stock": 100,
+            "price": 15000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--YnTW3o_K--/f_auto,t_supersize/v1529421711/r8befer5k6tuhp1fhts0.png",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 4,
+            "name": "Gibson Les Paul",
+            "description": "Features a mahogany body and neck, maple top, rosewood fretboard, and Burstbucker 1/2 humbuckers.",
+            "stock": 100,
+            "price": 20000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--VrIZKPwl--/f_auto,t_supersize/v1556568013/ulrotbkdbwcunlhdlzn6.jpg",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 5,
+            "name": "Gibson SG",
+            "description": "Over the years, Gibson has offered many iterations of the SG, but none has stuck around quite like the Gibson SG Standard. After its introduction as a replacement to the Les Paul in 1961, the SG's sharp, striking double-cut, beveled edges, and solid mahogany body, have all placed the SG squarely in the realm of legendary solidbody guitars. Though it was called the Les Paul after its initial production, the moniker was dropped in preference to SG. The SG Standard remains one of Gibson's most popular guitars and one of the brand's top-selling models since its release used by by players like Tony Iommi, Jeff Tweedy, and Angus Young. The Gibson SG Standard has seen many evolutions, existing and enduring through different additions and subtractions, but still remains one of the most iconic Gibson guitars.",
+            "stock": 100,
+            "price": 20000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--ZMQUj70y--/f_auto,t_supersize/v1570740223/j7nsgobbno84i12qdrnz.png",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 6,
+            "name": "Gibson SG",
+            "description": "Over the years, Gibson has offered many iterations of the SG, but none has stuck around quite like the Gibson SG Standard. After its introduction as a replacement to the Les Paul in 1961, the SG's sharp, striking double-cut, beveled edges, and solid mahogany body, have all placed the SG squarely in the realm of legendary solidbody guitars. Though it was called the Les Paul after its initial production, the moniker was dropped in preference to SG. The SG Standard remains one of Gibson's most popular guitars and one of the brand's top-selling models since its release used by by players like Tony Iommi, Jeff Tweedy, and Angus Young. The Gibson SG Standard has seen many evolutions, existing and enduring through different additions and subtractions, but still remains one of the most iconic Gibson guitars.",
+            "stock": 100,
+            "price": 20000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--ZMQUj70y--/f_auto,t_supersize/v1570740223/j7nsgobbno84i12qdrnz.png",
+            "categoryId": 1,
+            "authorId": 1
+        },
+        {
+            "id": 7,
+            "name": "Fender Blues Junior",
+            "description": "Packing tube-powered muscle to handle gigs and an affordable price tag, the Fender Blues Junior III combo is a compact solution for vintage tone, big sound, and plenty of headroom for pedals.",
+            "stock": 50,
+            "price": 10000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--wNtmmNQF--/f_auto,t_supersize/v1654109530/dgp18juwnc4j9xg9j4lq.png",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 8,
+            "name": "Fender Deluxe Reverb",
+            "description": "Featuring dual normal and vibrato channels, the power of two 12AX7 and two 12AT7 tubes, and 22w of power, the '65 Reissue Deluxe Reverb is a formidable tool built for the working musician. With each sporting two-band EQs and additional controls for reverb, speed, and intensity on the tremolo, the dual-channel design allows easy toggling between crisp, snappy cleans and surf-laden warble via channel selector switch. Built to the specs of the original heard on countless classics, new generation of a classic amp is a one way ticket to timeless Fender tone.",
+            "stock": 50,
+            "price": 10000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--wNtmmNQF--/f_auto,t_supersize/v1654109530/dgp18juwnc4j9xg9j4lq.png",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 9,
+            "name": "Vox AC15",
+            "description": "For those who want the classic jangle and top boost of the Vox AC30 but don't need quite so much power, the AC15C1 is a great option. While there have been a number of AC15 variants since its debut in 1957, the current AC15C1 uses an all-tube, 15W 1x12 design to capture the tone of its predecessors. This amp might be made in China, but after plugging into it, there's no denying that the tone is pure classic Vox.",
+            "stock": 50,
+            "price": 12000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--DoyHXKH7--/f_auto,t_supersize/v1457711151/nhon5tq2uguh4fqsnigd.jpg",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 10,
+            "name": "Supro 1695T",
+            "description": "Inspired by the grinding, classic tone of Jimmy Page's famed '59 Supro, the 1695T Black Magick delivers the goods on all fronts. Two pre-cascaded inputs with independent volume controls let this 25-watt all-tube rock'n'roll monster tip the scales for gain and drive, nailing down the elusive 'Zeppelin sound' with the greatest of ease. Shop Reverb.com and compare prices on new & used Supro 1695T Black Magick amps and find the best deals.",
+            "stock": 50,
+            "price": 15000000,
+            "mainImg": "https://images.reverb.com/image/upload/s---dmy1bQK--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1459438196/ahh5g3nyty2ihka7erw0.jpg",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "id": 11,
+            "name": "Boss Blues Driver",
+            "description": "For just a touch of dirt and push, the Boss BD-2 Blues Driver has been a perennial favorite for both bedroom players and celebrities such as John Mayer and Brad Paisley. Falling somewhere between your amp's natural clean tone and the mid-soaked scream of an Ibanez TS-9, the Blues Driver hits the sweet spot of articulation and grit.",
+            "stock": 30,
+            "price": 1000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--HsO4-ADF--/f_auto,t_supersize/v1648558199/emvvo6o14chl75gfqlz6.jpg",
+            "categoryId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 12,
+            "name": "Ibanez Tube Screamer",
+            "description": "Sporting the same chip and analog circuits as the much-coveted original, the Ibanez TS-808 Tube Screamer Reissue is a true-to-form rendition with the same streamlined interface of overdrive, tone and level controls. This pedal summons all the searing tube-like overdrive of its predecessors without searing a hole through your wallet.",
+            "stock": 30,
+            "price": 1000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--6bW866jy--/f_auto,t_supersize/v1645041518/nj6xwsz5vitn9pu1dh2q.jpg",
+            "categoryId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 13,
+            "name": "Boss TR2",
+            "description": "The Boss TR-2 Tremolo will leave listeners wondering if you have a vintage tweed amp hidden in the backline with its dreamy slow flutter. It also has a few modern tricks up its sleeve, allowing you take tremolo tones to places they never went in the '50s and '60s.",
+            "stock": 30,
+            "price": 500000,
+            "mainImg": "https://images.reverb.com/image/upload/s--kH0pRMHm--/f_auto,t_supersize/v1487720650/m0t2yzlkefwdeqg18hy5.jpg",
+            "categoryId": 3,
+            "authorId": 1
+        },
+        {
+            "id": 14,
+            "name": "Electro Harmonix Big Muff",
+            "description": "Few stompboxes have shaped the sound of rock like the Electro-Harmonix Big Muff Pi. Fewer still have gone through as many variations while still maintaining their fan bases. From David Gilmour to Billy Corgan to J. Mascis and Dan Auerbach, the Big Muff Pi continues to be the life blood of fuzz.",
+            "stock": 30,
+            "price": 2000000,
+            "mainImg": "https://images.reverb.com/image/upload/s--w2HcnFDM--/f_auto,t_supersize/v1553629218/il1d7v1lah5zvtqfpdhj.jpg",
+            "categoryId": 3,
+            "authorId": 1
+        }
+]
+

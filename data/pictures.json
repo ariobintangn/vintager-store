@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/417370/17203833_800.jpg",
+        "productId": 1
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://galerimusikindonesia.com/image/cache/data/gitar%20dan%20bass/Gitar%20Elektrik/fender/Player%20Stratocaster%20HSS%20MN%20BLK/F03-014-4522-506-01-700x700.jpg",
+        "productId": 1
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/7/11/224043/224043_d963e915-020a-4924-8f92-7d4daaab9ad9_580_580.jpg",
+        "productId": 4
+    }
+    
+]
